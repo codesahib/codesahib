@@ -13,6 +13,11 @@ During my leasure time, I try to sleep well. That's it! :sweat_smile:
 - 📫 How to reach me: LinkedIn works best or email.
 - ⚡ Fun fact: I talk a lot. Even if on a deadline. But I still manage to get through that. That's my superpower!! :laughing:
 
+## 🛠 Skills
+React.js, Javascript, HTML, CSS<br>
+Node.js, Django <br>
+C++, Python
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codesahib.github.io/gursahibsingh/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singh-gursahib/)
