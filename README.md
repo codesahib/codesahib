@@ -13,6 +13,7 @@ During my leasure time, I try to sleep well. That's it! :sweat_smile:
 - 📫 How to reach me: LinkedIn works best or email.
 - ⚡ Fun fact: I talk a lot. Even if on a deadline. But I still manage to get through that. That's my superpower!! :laughing:
 - ⚡ Another Fun fact: Sapiosexual(and I mean it!) :laughing:
+- ⚡ Another Fun fact: Bought $13 face cleanser instead of $5 facewash :laughing:
 
 ## 🛠 Skills
 React.js, Javascript, HTML, CSS<br>
