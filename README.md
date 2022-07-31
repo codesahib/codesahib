@@ -12,7 +12,7 @@ During my leasure time, I try to sleep well. That's it! :sweat_smile:
 - 👯 I’m looking to collaborate on: Any small scale software project.
 - 📫 How to reach me: LinkedIn works best or email.
 - ⚡ Fun fact: I talk a lot. Even if on a deadline. But I still manage to get through that. That's my superpower!! :laughing:
-- ⚡ Fun fact: Sapiosexual(and I mean it!) :laughing:
+- ⚡ Another Fun fact: Sapiosexual(and I mean it!) :laughing:
 
 ## 🛠 Skills
 React.js, Javascript, HTML, CSS<br>
