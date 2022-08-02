@@ -4,7 +4,7 @@
 
 I'm a current graduate student at University of Waterloo.
 I have 2+ year of industry experience working as Senior Member of Technical Staff at Siemens EDA.
-During my leasure time, I try to sleep well. That's it! :sweat_smile: 
+During my leisure time, I try to sleep well. That's it! :sweat_smile: 
 
 
 - 🔭 I’m currently working on: Getting through grad school and building essential skills.
