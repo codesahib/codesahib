@@ -7,7 +7,7 @@ I have 2+ year of industry experience working as Senior Member of Technical Staf
 During my leisure time, I try to sleep well. That's it! :sweat_smile: 
 
 
-- 🔭 I’m currently working on: Learning new tech stack for backend.
+- 🔭 I’m currently working on: New tech stack for backend.
 - 🌱 I’m currently learning: Software testing.
 - 👯 I’m looking to collaborate on: Any small scale software project.
 - 📫 How to reach me: LinkedIn works best or email.
