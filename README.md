@@ -2,13 +2,13 @@
 # Hi, I'm Gursahib! 👋
 
 
-I'm a current graduate student at University of Waterloo.
+I'm a recent graduate from University of Waterloo and currently working as a Software Engineer.
 I have 2+ year of industry experience working as Senior Member of Technical Staff at Siemens EDA.
 During my leisure time, I try to sleep well. That's it! :sweat_smile: 
 
 
-- 🔭 I’m currently working on: Getting through grad school and building essential skills.
-- 🌱 I’m currently learning: Software testing and Web Development.
+- 🔭 I’m currently working on: Learning new tech stack for backend.
+- 🌱 I’m currently learning: Software testing.
 - 👯 I’m looking to collaborate on: Any small scale software project.
 - 📫 How to reach me: LinkedIn works best or email.
 - ⚡ Fun fact: I talk a lot. Even if on a deadline. But I still manage to get through that. That's my superpower!! :laughing:
