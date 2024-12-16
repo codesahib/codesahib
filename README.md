@@ -3,7 +3,6 @@
 
 
 I'm a recent graduate from University of Waterloo and currently working as a Software Engineer.
-I have 2+ year of industry experience working as Senior Member of Technical Staff at Siemens EDA.
 During my leisure time, I try to sleep well. That's it! :sweat_smile: 
 
 
